@@ -6,9 +6,10 @@
 </div>
 <br>
 
-<font size="10">
+
 Soy un apasionado del desarrollo de software con enfoque en **backend**. Actualmente, estoy en proceso de aprendizaje y me encuentro explorando tecnologías clave para el desarrollo web y de sistemas.
-</font>
+
+
 ---
 
 ## 🚀 Tecnologías en aprendizaje  
