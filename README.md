@@ -1,9 +1,11 @@
 ## Hola, Soy Cristian 👋
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJkbHY0OHE3cXRrbHNhNWhqczZzYnhrZGxmYzZ1b2htZWRlN3FpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xiwwfGcXIrNLPTG/giphy.gif" width="200"/>
-  <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd5NHkycjBsa2VncGxqdHNldGhlODg2dHVtY3RocjdpYnR4MW5rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZfnw0RhNN5q5Ak/giphy.gif" width="200"/>
-</div>
+<table>
+  <tr>
+    <td><img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJkbHY0OHE3cXRrbHNhNWhqczZzYnhrZGxmYzZ1b2htZWRlN3FpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xiwwfGcXIrNLPTG/giphy.gif" width="200"/></td>
+    <td><img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd5NHkycjBsa2VncGxqdHNldGhlODg2dHVtY3RocjdpYnR4MW5rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZfnw0RhNN5q5Ak/giphy.gif" width="200"/></td>
+  </tr>
+</table>
 
 Soy un apasionado del desarrollo de software con enfoque en **backend**. Actualmente, estoy en proceso de aprendizaje y me encuentro explorando tecnologías clave para el desarrollo web y de sistemas.  
 
