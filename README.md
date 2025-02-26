@@ -7,7 +7,9 @@
 <br>
 
 
-Soy un apasionado del desarrollo de software con enfoque en **backend**. Actualmente, estoy en proceso de aprendizaje y me encuentro explorando tecnologías clave para el desarrollo web y de sistemas.
+<span style="font-size: 18px; color: orange;">
+  Soy un apasionado del desarrollo de software con enfoque en backend. Actualmente, estoy en proceso de aprendizaje y me encuentro explorando tecnologías clave para el desarrollo web y de sistemas.
+</span>
 
 
 ---
