@@ -1,4 +1,4 @@
-## Hola, Soy Cristian 👋
+## Hola, Soy Cristian <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJkbHY0OHE3cXRrbHNhNWhqczZzYnhrZGxmYzZ1b2htZWRlN3FpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xiwwfGcXIrNLPTG/giphy.gif" width="400"/>
@@ -12,7 +12,7 @@ Soy un apasionado del desarrollo de software con enfoque en **backend**. Actualm
 
 ## 🚀 Tecnologías en aprendizaje  
 
-| Lenguaje | Base de Datos | Frameworks & Herramientas |
+| Lenguaje | Base de Datos | Frameworks & Herramientas |  
 |----------|-------------|----------------|
 | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) |
 | | | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) |
@@ -31,6 +31,9 @@ Soy un apasionado del desarrollo de software con enfoque en **backend**. Actualm
 
 🌱 **Siempre en constante aprendizaje y mejorando cada día.** 🚀  
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=CristianPeluka&hide=["issues"]&show_icons=true)
 
 
 
