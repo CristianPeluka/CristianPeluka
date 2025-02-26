@@ -5,6 +5,7 @@
   <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd5NHkycjBsa2VncGxqdHNldGhlODg2dHVtY3RocjdpYnR4MW5rdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZfnw0RhNN5q5Ak/giphy.gif" width="400"/>
 </div>
 <br>
+
 Soy un apasionado del desarrollo de software con enfoque en **backend**. Actualmente, estoy en proceso de aprendizaje y me encuentro explorando tecnologías clave para el desarrollo web y de sistemas.  
 
 ---
@@ -15,7 +16,7 @@ Soy un apasionado del desarrollo de software con enfoque en **backend**. Actualm
 |----------|-------------|----------------|
 | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) |
 | | | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) |
-| | | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| | | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=red) |
 
 ---
 
