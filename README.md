@@ -40,7 +40,7 @@ Soy un apasionado del desarrollo de software con enfoque en **backend**. Actualm
 ## 📫 Contacto
 - 📍 Lima, Perú
 - 💼 [LinkedIn](https://www.linkedin.com/in/cristian-campos-orué-5169ba1b1/)
-- 📧 Email: [tuemail@example.com](mailto:tuemail@example.com)
+
 
 
 
