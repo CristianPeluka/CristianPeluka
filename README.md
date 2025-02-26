@@ -1,5 +1,5 @@
 ## Hola, Soy Cristian 👋
-<img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG41Ymg4dzRkOG4ycTRjMGF4YzQzN3I0N2prY2lzNXNkMzI1dHBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/CJRKhi0sixPav1P6MN/giphy.gif" width = 200/>
+<img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG41Ymg4dzRkOG4ycTRjMGF4YzQzN3I0N2prY2lzNXNkMzI1dHBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/CJRKhi0sixPav1P6MN/giphy.gif" width = 2000/>
 
 Soy un apasionado del desarrollo de software con enfoque en backend. Actualmente, estoy en proceso de aprendizaje y me encuentro explorando tecnologías clave para el desarrollo web y de sistemas.
 ### Tecnologías en aprendizaje :woman_technologist:
