@@ -37,6 +37,11 @@ Soy un apasionado del desarrollo de software con enfoque en **backend**. Actualm
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=CristianPeluka&hide=["issues"]&show_icons=true)
 
+## 📫 Contacto
+- 📍 Lima, Perú
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristian-campos-orué-5169ba1b1/)
+- 📧 Email: [tuemail@example.com](mailto:tuemail@example.com)
+
 
 
 
